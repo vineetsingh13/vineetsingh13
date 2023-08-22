@@ -1,12 +1,13 @@
 # Welcome to vineetsingh13's GitHub Profile!
 
+## About Me
 Hello there! 👋 Welcome to my GitHub profile. I'm Vineet Singh, pursuing my master's in computer application from VIT, Vellore. Passionate about building Android apps and have worked on several projects. Excited about exploring machine learning's potential for creating more powerful apps🚀. Always curious and seeking new opportunities that could help me grow. Let's connect and learn together!👋
 
-## About Me
-
-- 🔭 I’m currently working on Rebuying - an online marketplace where people can list their industrial machines and equipment for selling and also chat with the seller regarding the products.
 - 🌱 I’m currently learning Machine Learning.
 - 📫 How to reach me: https://www.linkedin.com/in/vineet-singh-139533250.
+
+## Current project
+- 🔭 I’m currently working on Rebuying - an online marketplace where people can list their industrial machines and equipment for selling and also chat with the seller regarding the products
 
 ## Projects
 
