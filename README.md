@@ -1,16 +1,25 @@
-### Hi there 👋
+# Welcome to vineetsingh13's GitHub Profile!
 
-<!--
-**vineetsingh13/vineetsingh13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! 👋 Welcome to my GitHub profile. I'm Vineet Singh, pursuing my master's in computer application from VIT, Vellore. Passionate about building Android apps and have worked on several projects. Excited about exploring machine learning's potential for creating more powerful apps🚀. Always curious and seeking new opportunities that could help me grow. Let's connect and learn together!👋
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Rebuying - an online marketplace where people can list their industrial machines and equipment for selling and also chat with the seller regarding the products.
+- 🌱 I’m currently learning Machine Learning.
+- 📫 How to reach me: https://www.linkedin.com/in/vineet-singh-139533250.
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+1. Notes App(https://github.com/vineetsingh13/Notes-App) - A simple notes app created using kotlin, android studio, and ROOM database.
+2. News App(VARTA) (https://github.com/vineetsingh13/NewsApp) - A news app where you can watch the latest news of all technologies.
+
+Feel free to explore the repositories for more details!
+
+## Connect with Me
+
+Let's connect and collaborate:
+
+- [LinkedIn](https://www.linkedin.com/in/vineet-singh-139533250)
+- [Twitter](https://twitter.com/vineet13502?t=vYcwzleM6ZMXR8wLIYjSog&s=09)
