@@ -13,7 +13,7 @@ Hello there! 👋 Welcome to my GitHub profile. I'm Vineet Singh, pursuing my ma
 
 Here are some of the projects I've worked on:
 
-1. Notes App(https://github.com/vineetsingh13/Notes-App) - A simple notes app created using kotlin, android studio, and ROOM database.
+1. Notes App(https://github.com/vineetsingh13/Notes-App) - A simple notes app created using kotlin, Android Studio, and ROOM database.
 2. News App(VARTA) (https://github.com/vineetsingh13/NewsApp) - A news app where you can watch the latest news of all technologies.
 
 Feel free to explore the repositories for more details!
